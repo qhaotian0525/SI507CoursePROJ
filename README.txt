@@ -9,6 +9,7 @@ Run the Python script called "PROJ.py" in the terminal. Type the answer (some nu
 For example:
 Question: "Do you want the local cache? [y/n]: "
 Answer: "y" or "n"
+No need to worry about the apikeys and reddit issues. I have attached qualified apikey and Reddit thing into the code.
 
 Data Structure:
 I implemented a binary decision tree in the project. The binary tree will return the url to browse based on users' answers. The detailed information is 
